@@ -1,0 +1,4 @@
+@import 'var.css';
+* {
+	font-family: var(--logo-font);
+}
